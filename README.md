@@ -17,8 +17,8 @@ Some of my current interests include:
 ---
 
 ## ⚙️ Tech Stack
-**Languages:** Python, SQL, Java, JavaScript  
-**Frameworks & Tools:** Flask, Pandas, Scikit-learn, Docker, Git, Jenkins  
+**Languages:** Python, SQL, HTML, CSS  
+**Frameworks & Tools:** Pandas, Scikit-learn, Docker, Git, Jenkins  
 **Other Interests:** APIs, automation scripts, and LLM experimentation  
 
 ---
