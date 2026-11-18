@@ -1,51 +1,23 @@
-# 👋 Hi, I'm Colin!
+# Colin Bernhard
 
-Welcome to my **About Me** repository — a personal space where I share a bit about who I am, what I’m learning, and what I’m building.
+IT student and technology intern focused on school IT, security, and automation. I like building tools that take work off a help desk and make support faster for the people using it.
 
----
+## What I'm doing now
 
-## 🧠 About Me
-I’m a curious and driven developer who enjoys solving real-world problems through code.  
-My interests span **data engineering**, **machine learning**, and **full-stack development**, and I’m passionate about building projects that automate, optimize, or simplify everyday challenges.
+- **Technology Intern, Hamilton Township School District** (Aug 2026 – present). I image and deploy Chromebooks and laptops across the district (~14,000 users), work about 20 help desk tickets a week, and support SIS account access. I wrote a Google Apps Script that cleans and automates Google Sheets data transfers, saving the data team about 2 hours per upload.
+- **B.S. in Information Technology, Montclair State University** (cybersecurity concentration).
+- **AI Trainer, Handshake AI Fellowship** (Jun – Oct 2026). I evaluated LLM responses to coding tasks against a rubric (100+ evaluations) and wrote the rationales and preference comparisons used as RLHF training data.
 
-Some of my current interests include:
-- 🧩 Machine Learning & AI applications  
-- 📊 Data Engineering & Analytics  
-- ☁️ Cloud & DevOps tools  
-- 💻 Building end-to-end projects to learn by doing  
+## Projects
 
----
+- [**district-it-assistant**](https://github.com/colinbern8/district-it-assistant): an assistant for answering common school IT questions.
+- [**PhishGuard**](https://github.com/colinbern8/PhishGuard): phishing detection and awareness tooling.
+- [**poker-bot**](https://github.com/colinbern8/poker-bot): a Python poker bot.
 
-## ⚙️ Tech Stack
-**Languages:** Python, SQL, HTML, CSS  
-**Frameworks & Tools:** Pandas, Scikit-learn, Docker, Git, Jenkins  
-**Other Interests:** APIs, automation scripts, and LLM experimentation  
+## Tools
 
----
+Python · SQL · Bash · Google Apps Script · Git/GitHub · Docker · Jenkins · Google Workspace admin
 
-## 🚀 Projects
-Here are a few highlights of what I’ve been working on:
+## Contact
 
-- **⚾ Student Athlete Scheduler App**  
-  A full-stack web application designed to help student-athletes manage their class, training, and competition schedules efficiently.  
-  Built with Python (Flask) and a SQL database, featuring a clean UI and smart time-conflict detection.
-
-- **📈 Trading Bot Prototype**  
-  A Python-based system that uses historical stock data and technical indicators (SMA, RSI, MACD, etc.) to generate buy/sell signals with confidence scores.
-
-- **🧾 ETL Pipeline for Retail Data**  
-  An end-to-end data engineering project that extracts, transforms, and loads retail sales data into a structured format for analysis and reporting.
-
-- **⚙️ DevOps Pipeline Demo**  
-  A CI/CD setup using Jenkins and Docker to automate code builds, testing, and deployment processes.
-
----
-
-## 📫 Connect With Me
-- GitHub: [@colinbern8](https://github.com/colinbern8)
-- LinkedIn: [Colin Bernhard](https://www.linkedin.com/in/colinbernhard080/)
-- Email: bernhardcolin8@gmail.com  
-
----
-
-⭐️ *Thanks for visiting my About Me page! Feel free to explore my projects and connect if you’d like to collaborate or chat about tech.*
+[LinkedIn](https://www.linkedin.com/in/colinbernhard080/) · [bernhardcolin8@gmail.com](mailto:bernhardcolin8@gmail.com)
